@@ -1,0 +1,10 @@
+"zh-TW":
+  plugin:
+    note: "記事本"
+  activerecord:
+    models:
+      note: "記事本"
+    attributes:
+      note:
+        title: 標題
+        body: 正文
